@@ -1,0 +1,25 @@
+{
+  "name": "belajar-vite",
+  "version": "1.0.0",
+  "description": "Belajar vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Nuridin",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/uuid": "^9.0.8",
+    "sass": "^1.71.1",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.5"
+  },
+  "prettier": {
+    "semi": false,
+    "printWidth": 255
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
